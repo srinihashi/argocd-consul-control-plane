@@ -29,5 +29,5 @@ meshGateway:
 syncCatalog:
   enabled: true
   default: true
-  k8sAllowNamespaces: ['*']
+  k8sAllowNamespaces: []
   k8sDenyNamespaces: ['*']
