@@ -24,6 +24,7 @@ server:
     type: NodePort
     nodePort:
       ## all are random nodePorts and you can set your own
+      # Testing
       http: 30010
       https: 30011
       serf: 30012
